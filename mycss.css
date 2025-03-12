@@ -1,0 +1,51 @@
+h2{
+    text-align: center;
+}
+.red1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: red;
+    margin-left:40%;
+    margin-top:auto;
+    display: inline-block;
+}
+.blue1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color:blue;
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+.yellow1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-left:40%;
+   
+    display: inline-block;
+    margin-top: 30px;
+   
+}
+.green1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: green;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.flash{
+   background-color: white;
+}
+.userflash{
+    background-color: violet;
+}
